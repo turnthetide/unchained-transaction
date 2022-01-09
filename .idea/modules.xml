@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sawtooth-sdk-javascript/sawtooth-sdk-javascript.iml" filepath="$PROJECT_DIR$/../sawtooth-sdk-javascript/sawtooth-sdk-javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unchained-transaction.iml" filepath="$PROJECT_DIR$/unchained-transaction.iml" />
+    </modules>
+  </component>
+</project>
